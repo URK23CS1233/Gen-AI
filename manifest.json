@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "My Chatbot",
+  "version": "1.0",
+  "description": "Chat with my chatbot inside Chrome.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"]
+}
